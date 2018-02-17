@@ -60,9 +60,9 @@
     },
     {
       "author": "whyrusleeping",
-      "hash": "QmXauCuJzmzapetmC6W4TuDJLL1yFFrVzSHoWv8YdbmnxH",
+      "hash": "QmT1hUXbRnjpWxGWAuRXUiVeyU5yrA7HNFieUBqUDcfgYm",
       "name": "go-libp2p-peerstore",
-      "version": "1.4.15"
+      "version": "1.4.16"
     },
     {
       "author": "whyrusleeping",
@@ -72,9 +72,9 @@
     },
     {
       "author": "whyrusleeping",
-      "hash": "QmVvkK7s5imCiq3JVbL3pGfnhcCnf3LrFJPF4GE2sAoGZf",
+      "hash": "QmW1vsTgpWmkmyopPPVfXcMjbR9qEkzDyeZgF9TXgZx8PU",
       "name": "go-testutil",
-      "version": "1.1.15"
+      "version": "1.2.0"
     },
     {
       "author": "whyrusleeping",
@@ -84,15 +84,15 @@
     },
     {
       "author": "whyrusleeping",
-      "hash": "QmTH6VLu3WXfbH3nuLdmscgPWuiPZv3GMJ2YCdzBS5z91T",
+      "hash": "QmeerdJBfbE1apaqfSDTYGTffgNpn7ZuMAYikkTMRvtUV8",
       "name": "go-libp2p-kbucket",
-      "version": "2.1.17"
+      "version": "2.1.18"
     },
     {
       "author": "whyrusleeping",
-      "hash": "QmTiWLZ6Fo5j4KcTVutZJ5KWRRJrbxzmxA4td8NfEdrPh7",
+      "hash": "QmUJLD689v9n9hi1jtXkMgTYji5qpEGBsiMCYDFWbWWCFa",
       "name": "go-libp2p-routing",
-      "version": "2.2.21"
+      "version": "2.2.22"
     },
     {
       "author": "whyrusleeping",
@@ -114,21 +114,21 @@
     },
     {
       "author": "whyrusleeping",
-      "hash": "QmNmJZL7FQySMtE2BQuLMuZg2EB2CLEunJJUSVSc9YnnbV",
+      "hash": "QmZLmWTC8eS1LojwosxjZpyDJtuTZx9bUVb2ZWmCm7hkT5",
       "name": "go-libp2p-host",
-      "version": "2.1.5"
+      "version": "3.0.0"
     },
     {
       "author": "whyrusleeping",
-      "hash": "QmNh1kGFFdsPu79KNSaL4NUKUPb4Eiz4KHdMtFY6664RDp",
+      "hash": "QmY4UBVbJ8mv1PnXsZXFYwJY3C3NqWm4XWSDoUcSBgJrfB",
       "name": "go-libp2p",
-      "version": "5.0.14"
+      "version": "6.0.0"
     },
     {
       "author": "whyrusleeping",
-      "hash": "QmXfkENeeBvh3zYA51MaSdGUdBjhQ99cP5WQe8zgr6wchG",
+      "hash": "Qmd6xURKh4mVXftPU4XBjtLoihHXV2K2bS2VDYhPwTp4E6",
       "name": "go-libp2p-net",
-      "version": "2.0.5"
+      "version": "3.0.0"
     },
     {
       "author": "whyrusleeping",
@@ -144,9 +144,9 @@
     },
     {
       "author": "whyrusleeping",
-      "hash": "QmYVR3C8DWPHdHxvLtNFYfjsXgaRAdh6hPMNH3KiwCgu4o",
+      "hash": "QmUp2kUYRqE7doM8EpvF8JV3pELqsQ6MTEiAdB5NyxiNqw",
       "name": "go-libp2p-netutil",
-      "version": "0.3.9"
+      "version": "0.4.0"
     },
     {
       "author": "multiformats",
