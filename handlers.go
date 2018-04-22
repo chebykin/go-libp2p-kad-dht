@@ -44,6 +44,7 @@ func (dht *IpfsDHT) handlerForMsgType(t pb.Message_MessageType) dhtHandler {
 }
 
 func (dht *IpfsDHT) handleGetValue(ctx context.Context, p peer.ID, pmes *pb.Message) (_ *pb.Message, err error) {
+	fmt.Println(">>> GET %#v", pmes)
 	eip := log.EventBegin(ctx, "handleGetValue", p)
 	defer func() {
 		if err != nil {
@@ -155,6 +156,7 @@ func cleanRecord(rec *recpb.Record) {
 
 // Store a value in this peer local storage
 func (dht *IpfsDHT) handlePutValue(ctx context.Context, p peer.ID, pmes *pb.Message) (_ *pb.Message, err error) {
+	fmt.Println(">>> PUT %#v", pmes)
 	eip := log.EventBegin(ctx, "handlePutValue", p)
 	defer func() {
 		if err != nil {
